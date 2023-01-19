@@ -36,3 +36,4 @@
 * https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5
 * https://docs.flutter.dev/perf/best-practices
 * https://aglowiditsolutions.com/blog/flutter-best-practices/
+* https://medium.com/wriketechclub/improving-code-quality-with-dart-code-metrics-430a5e3e316d
